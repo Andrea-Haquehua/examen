@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: linear-gradient(to left,#A62F24,#8C467A);
+}
+.estilo{
+    height: 3.8rem;
+    width: 3.8rem;
+    border-radius: 50%;
+    justify-content: center;
+    background: gray;
+    border: dimgray;
+    margin-top: 250px;
+    margin-left: 70px;
+    align-items: baseline;
+}
